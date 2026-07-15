@@ -21,7 +21,7 @@ A Postman collection that automatically pages through a paginated API, using `pm
 ## How to use it
 
 1. Click **View live documentation** above, or import `Pagination Exercise PokéAPI` manually
-2. No environment setup or auth needed — PokéAPI is an open API, which is why I chose it 
+2. No environment setup or auth needed, PokéAPI is an open API, which is why I chose it 
 3. Open the Postman Console (`View → Show Postman Console`) to watch it run
 4. Right-click the collection → **Run collection**
 
