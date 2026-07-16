@@ -27,4 +27,4 @@ A Postman collection that automatically pages through a paginated API, using `pm
 
 ---
 
-**Built with:** [Postman](https://www.postman.com/) · [PokéAPI](https://pokeapi.co/)
+**Built with:** [Postman](https://www.postman.com/) · [PokéAPI](https://pokeapi.co/) · [Claude](https://claude.ai/)
